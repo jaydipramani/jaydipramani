@@ -11,7 +11,14 @@
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
 
+<h3>Little facts about me 🧑</h3>
 
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
+- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
+- 💡 Contributing to Open Source Projects is always been a goal to me.
+- ⚡ Fun fact: I love Sports, especially Cricket.
+<br>
 
 <p align="center">
  <a href="https://alsiam.com" target="blank">
@@ -34,20 +41,6 @@
   </a> 
 </p>
 <br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
-
-</p>
-
 <br/>
 <br/>
 <br/>
