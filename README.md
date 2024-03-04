@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-  Hello! I'm <b>Jaydip Ramani</b>, a mobile app developer passionate about build something great. I find joy in developing both applications and websites, and I'm always eager to learn new things and explore different perspectives. Looking forward to engaging conversations and exciting experiences!
+  Hello! I'm <b>Jaydip Ramani</b>, a <b>mobile app developer</b>b> passionate about <b>build something great</b>. I find joy in developing both <b>applications and websites</b>, and I'm always eager to learn new things and explore different perspectives. Looking forward to <b>engaging conversations</b> and <b>exciting experiences!</b>
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
