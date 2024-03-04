@@ -37,7 +37,7 @@
 
 ## Use To Code
 
-![Android](https://img.shields.io/badge/Android-78C257?style=for-the-badge&labelColor=black&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-78C257?style=for-the-badge&labelColor=black&logo=android&logoColor=78C257)
 ![Ios](https://img.shields.io/badge/Ios-000000?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-61DAFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DAFB)
