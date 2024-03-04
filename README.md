@@ -53,7 +53,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&labelColor=black&logo=java&logoColor=5382a1)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=B125EA)
-![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&labelColor=yellow&logo=dart&logoColor=0075BA)
+![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&labelColor=black&logo=dart&logoColor=white)
 ![GoogleApi](https://img.shields.io/badge/Google%20Api-FFA611?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=FFA611)
 ![SQLite](https://img.shields.io/badge/Sqlite-003c57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003c57)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611)
