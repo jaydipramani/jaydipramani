@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 <p align="center">
- <a href="https://jaydipramani.github.io/Protfolio/i" target="blank">
+ <a href="https://jaydipramani.github.io/Protfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="jaydip" />
  </a>
  <a href="https://www.linkedin.com/in/jaydip-ramani/" target="_blank">
