@@ -5,8 +5,7 @@
 
 <p align="center">
   <em>
-    Myself <b>Jaydip Ramani</b>, a final year <b>Computer Science</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+  Hello! I'm <b>Jaydip Ramani</b>, a mobile app developer passionate about build something great. I find joy in developing both applications and websites, and I'm always eager to learn new things and explore different perspectives. Looking forward to engaging conversations and exciting experiences!
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
