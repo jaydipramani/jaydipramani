@@ -55,9 +55,11 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=B125EA)
 ![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&labelColor=black&logo=dart&logoColor=white)
 ![GoogleApi](https://img.shields.io/badge/Google%20Api-FFA611?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=FFA611)
-![SQLite](https://img.shields.io/badge/Sqlite-003c57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003c57)
+![SQLite](https://img.shields.io/badge/Sqlite-003c57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA611)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![AndroidStudio](https://img.shields.io/badge/Android%20Studio-4286f5?style=for-the-badge&labelColor=black&logo=androidstudio&logoColor=4286f5)
+![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&labelColor=black&logo=xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
