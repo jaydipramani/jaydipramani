@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Mobile App Development and BackEnd Development.
 - 👯 I’m looking to collaborate with Fullstack App and UI/UX projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- ⚡ Fun fact: I love Sports, especially Kabadii.
 <br>
 <p align="center">
  <a href="https://jaydipramani.github.io/Protfolio/" target="blank">
